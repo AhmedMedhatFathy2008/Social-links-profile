@@ -1,0 +1,16 @@
+# Avoid accidental upload of the Sketch and Figma design files
+*.sketch
+*.fig
+
+# Avoid accidental XD upload if you convert the design file
+*.xd
+
+# Avoid system & environment garbage files
+.DS_Store
+Thumbs.db
+.prettierignore
+
+# Ignore all markdown files except README.md and style-guide.md
+*.md 
+!README.md 
+!style-guide.md
